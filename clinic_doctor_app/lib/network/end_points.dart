@@ -1,0 +1,16 @@
+//const DOCTORSDATA = 'DOCTORS/GET_DOCTORS';
+// const BASEURL = 'apex.oracle.com';
+//const TESTCONNECTIONURL = 'apex.oracle.com';
+var BASEURL = 'http://192.168.1.40:3000/';
+//const BASEURL = 'http://192.168.43.40:3000/';
+const SIGNIN = 'doctors/signin';
+const LOGIN = 'doctors/login';
+const DOCTORSDATA = 'doctors/GetDoctors';
+const GETDOCTORAPPIONTMENT = 'doctors/Appointments';
+const GETRESERVATIONSDATA = '/reservation/doctor/get';
+const POSTRESERVATION = 'reservation/user/post';
+const ACCEPTRESERVATION = 'reservation/doctor/accept';
+const CANCELRESERVATION = 'reservation/doctor/cancel';
+const DELETERESERVATION = 'reservation/doctor/delete';
+const GETFAVORITESSDATA = 'users/favoritedoctors/get';
+const UPDATEFAVORITESSDATA = 'users/favoritedoctors/update';

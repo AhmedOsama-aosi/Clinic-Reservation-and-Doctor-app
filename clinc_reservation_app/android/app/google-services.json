@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "991330391299",
+    "project_id": "clinic-6102021",
+    "storage_bucket": "clinic-6102021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991330391299:android:48efc3ee481617c3dc4536",
+        "android_client_info": {
+          "package_name": "com.example.clinc_reservation_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991330391299-a96mf183jtk1fae701m3t8oae80rtsng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdeVP-Wktre3oFGwK2WxSXOL4Sicgwr14"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991330391299-a96mf183jtk1fae701m3t8oae80rtsng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

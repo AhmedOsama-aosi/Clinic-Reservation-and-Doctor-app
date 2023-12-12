@@ -1,0 +1,17 @@
+<svg id="Girl_doctor" data-name="Girl doctor" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50.137" viewBox="0 0 50 50.137">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" y2="0.039" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f8d798"/>
+      <stop offset="1" stop-color="#dbbe84"/>
+    </linearGradient>
+  </defs>
+  <g id="Ellipse_" data-name="Ellipse " fill="#d5eaff" stroke="#d5eaff" stroke-width="1">
+    <circle cx="25" cy="25" r="25" stroke="none"/>
+    <circle cx="25" cy="25" r="24.5" fill="none"/>
+  </g>
+  <path id="Path" d="M1194.19,343.537c4.007-1.716,25.812-1.9,29.669,0s2.5,10.589,2.5,10.589a28.16,28.16,0,0,1-7.617,4.424c-4.207,1.525-3.735,2.16-9.358,2.089s-4.878-.216-9.43-1.741-9.14-6.238-9.14-6.238S1190.182,345.253,1194.19,343.537Z" transform="translate(-1184.107 -310.508)" fill="#fff"/>
+  <path id="Path-2" data-name="Path" d="M1194.03,335.135c1.517-1.235,4.893-1.958,7.132-2.384a9.583,9.583,0,0,1,6.73,1.629,6.484,6.484,0,0,1,4.809.754c2.013,1.452,3.631,5.234,2.923,10.75s-4.962,12.559-5.883,14.143c0,0-6.483-2.072-8.263-2.072-4.8-.566-6.964,0-6.964,0s-4.5-6.6-4.57-10.373S1189.583,338.878,1194.03,335.135Z" transform="translate(-1177.582 -328.209)" fill="#6a2801"/>
+  <path id="Path-3" data-name="Path" d="M1193.682,351.784a7.752,7.752,0,0,0,4.141,1.041,9.238,9.238,0,0,0,4.378-1.041l-1.61,9.912h-5.265Z" transform="translate(-1172.7 -312)" fill="#2e3d5a"/>
+  <path id="Path-4" data-name="Path" d="M1193.681,357.784l1.773-6.674h9.689l1.917,6.674-2.594,8.011a9.109,9.109,0,0,1-4.365,1.03,7.512,7.512,0,0,1-4.108-1.03Z" transform="translate(-1175.022 -326)" fill="url(#linear-gradient)"/>
+  <path id="Path-5" data-name="Path" d="M1196.414,342.191c1.061-1.39.837-2.785,5.246-3.176s5.469-2.176,5.469-2.176a6.842,6.842,0,0,0,2.455,3.962,10.728,10.728,0,0,0,3.495,1.785s1.433,2.82-.78,6.626-6.5,7.425-8.277,7.425c-4.8-.566-8.767-7.09-8.767-7.09S1195.354,343.581,1196.414,342.191Z" transform="translate(-1178.582 -325.209)" fill="#f8d798"/>
+</svg>

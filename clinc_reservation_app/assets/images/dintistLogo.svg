@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="59" height="59" viewBox="0 0 59 59">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#a9cdf6"/>
+    </linearGradient>
+  </defs>
+  <g id="dintist_logo" data-name="dintist logo" transform="translate(-276 -173)">
+    <g id="Ellipse_" data-name="Ellipse " transform="translate(276 173)" fill="#d5eaff" stroke="#d5eaff" stroke-width="1">
+      <circle cx="29.5" cy="29.5" r="29.5" stroke="none"/>
+      <circle cx="29.5" cy="29.5" r="29" fill="none"/>
+    </g>
+    <path id="Path_" data-name="Path " d="M1076.218,185.188c.508-7.3,3.916-9.932,8.685-9.932s6.309,3.866,12.042,3.926,5.349-3.567,10.083-3.567a8.718,8.718,0,0,1,8.507,9.574c-.58,5.263-7.809,27.253-12.242,27.275s-.964-16.554-7.875-16.626-3.141,18.824-7.675,16.626S1075.71,192.485,1076.218,185.188Z" transform="translate(-790 10.96)" stroke="#67b3ff" stroke-width="1" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
